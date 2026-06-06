@@ -14,7 +14,7 @@ Revenue and Profit Reporting
 Complex SQL Queries (JOINs, CTEs, Window Functions, Aggregations)
 Business Intelligence & Decision Support
 
-###🛠️ Technologies Used
+### 🛠️ Technologies Used
 SQL
 MySQL / PostgreSQL
 Database Management Concepts
